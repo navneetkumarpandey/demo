@@ -1,0 +1,16 @@
+package selfpractice.assigments;
+
+public class TestClass implements Test{
+
+	public static void main(String[] args) {
+
+}
+
+	@Override
+	public void calc() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+}

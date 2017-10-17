@@ -1,0 +1,5 @@
+package selfpractice.assigments;
+
+public interface TestOne {
+
+}

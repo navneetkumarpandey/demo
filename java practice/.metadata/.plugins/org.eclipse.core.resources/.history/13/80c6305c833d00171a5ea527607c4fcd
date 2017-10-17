@@ -1,0 +1,8 @@
+package selfpractice.assigments;
+
+public interface Test {
+	void calc();
+	int i=7; 
+	default void volume(){ };
+	
+}

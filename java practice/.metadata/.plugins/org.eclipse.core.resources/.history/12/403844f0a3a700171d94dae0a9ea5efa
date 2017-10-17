@@ -1,0 +1,27 @@
+package selfpractice.assigments;
+
+public class StringPlay{
+	
+	public static void main(String args[]){
+		
+		String s1 = "Test the reverse method";
+		String[] words = s1.split(" ");
+		int length= words.length;
+		System.out.println(length);
+		
+		StringBuffer revWord = null;
+		
+		for(String word:words){
+			revWord = new StringBuffer(word);
+			System.out.print(revWord.reverse()+ " ");
+			
+		}
+	
+	}
+	static  void revWor(){
+		
+	}
+	static void revWor(int a,int b){
+		
+	}
+}
